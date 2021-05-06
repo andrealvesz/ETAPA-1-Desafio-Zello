@@ -186,7 +186,7 @@ const Form = {
     },
 
     //resetar os dados do formulário
-    clearFields(){
+    clearFields() {
         this.description.value = ''
         this.amount.value = ''
         this.date.value = ''
